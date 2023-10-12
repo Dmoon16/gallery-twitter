@@ -62,13 +62,13 @@ With my app, you can effortlessly discover and filter media files shared by Twit
 1. Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/emrecoban/twitter-gallery.git
+  git clone https://github.com/dmoon16/gallery-twitter.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-  cd twitter-gallery
+  cd gallery-twitter
 ```
 
 3. Install the dependencies using `npm`:
@@ -104,8 +104,7 @@ Bug reports, feature requests, and pull requests are welcome. This project is in
 - Sponsor to me on GitHub.
 - Give a star to this repo.
 - Upvote on [ProductHunt](https://www.producthunt.com/posts/twitter-gallery-2).
-- Follow me on Twitter [@emreshepherd](https://twitter.com/emreshepherd), or GitHub [@emrecoban](https://github.com/emrecoban).
-- Buy me a coffee, or book: https://www.buymeacoffee.com/emrecoban
+- Follow me on GitHub [@dmoon16](https://github.com/dmoon16).
 
 ## References
 
@@ -113,12 +112,3 @@ Bug reports, feature requests, and pull requests are welcome. This project is in
 - [Timelines - Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-api/tweets/timelines/introduction)
 - [Official TS/JS SDK for the Twitter API v2](https://github.com/twitterdev/twitter-api-typescript-sdk)
 - [Image Gallery with Next.js](https://github.com/leerob/image-gallery-supabase-tailwind-nextjs)
-
-## Changelog
-
-- **[v1.1](https://github.com/emrecoban/twitter-gallery/releases/tag/v1.1):** It now uses Redis database for faster response time, fewer API requests.
-- **[v1.0](https://github.com/emrecoban/twitter-gallery/releases/tag/v1.0):** The first version was born!
-
-## License
-
-The Twitter Gallery is available as open source under the terms of the [MIT License](https://github.com/emrecoban/twitter-gallery/blob/main/LICENSE).
