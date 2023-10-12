@@ -2,8 +2,6 @@
 
 Twitter Gallery is an **open-source** MIT-licensed [Next.js](https://github.com/vercel/next.js) application that allows you to easily browse and filter media files from Twitter users.
 
-Try it: [twittergallery.emre.run](https://twittergallery.emre.run), OR [twittergallery.emre.run/](https://twittergallery.emre.run)`{username}`
-
 ## The Problem
 
 Twitter's built-in media tab is often cumbersome to use, and it lacks the ability to search within the media section alone. This limitation can be frustrating for users who primarily want to explore and view images without the distractions of other types of content. To address this issue, I have built Twitter Gallery.
